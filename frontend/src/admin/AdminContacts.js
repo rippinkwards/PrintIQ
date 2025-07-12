@@ -9,8 +9,7 @@ import {
   Eye,
   Menu,
   X,
-  Download,
-  Filter
+  Download
 } from 'lucide-react';
 import { adminApi } from '../utils/api';
 import toast from 'react-hot-toast';
