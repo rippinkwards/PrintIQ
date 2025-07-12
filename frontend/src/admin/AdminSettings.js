@@ -9,7 +9,6 @@ import {
   X,
   User,
   Globe,
-  Mail,
   Link2
 } from 'lucide-react';
 import { adminApi, publicApi } from '../utils/api';
